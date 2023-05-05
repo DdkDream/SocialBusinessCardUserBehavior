@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="dataCreate:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/dataCreate_jar</output-path>
+    <root id="archive" name="dataCreate.jar">
+      <element id="module-output" name="dataCreate" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/apache-maven-3.9.1/repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/apache-maven-3.9.1/repository/com/alibaba/fastjson/1.2.41/fastjson-1.2.41.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/apache-maven-3.9.1/repository/mysql/mysql-connector-java/8.0.17/mysql-connector-java-8.0.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/apache-maven-3.9.1/repository/org/apache/httpcomponents/httpclient/4.5.6/httpclient-4.5.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/apache-maven-3.9.1/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/apache-maven-3.9.1/repository/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/apache-maven-3.9.1/repository/commons-codec/commons-codec/1.10/commons-codec-1.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/apache-maven-3.9.1/repository/org/apache/httpcomponents/httpcore/4.4.10/httpcore-4.4.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/apache-maven-3.9.1/repository/commons-io/commons-io/2.7/commons-io-2.7.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
